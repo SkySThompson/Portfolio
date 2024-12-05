@@ -1,0 +1,15 @@
+[submodule "projects/AnimalQuiz"]
+	path = projects/AnimalQuiz
+	url = https://github.com/SkySThompson/AnimalQuiz.git
+[submodule "projects/TicTacToeSkyST"]
+	path = projects/TicTacToeSkyST
+	url = https://github.com/SkySThompson/TicTacToeSkyST.git
+[submodule "projects/skyhangman"]
+	path = projects/skyhangman
+	url = https://github.com/SkySThompson/skyhangman.git
+[submodule "projects/Calc"]
+	path = projects/Calc
+	url = https://github.com/SkySThompson/Calc.github.io.git
+[submodule "projects/TimerJS"]
+	path = projects/TimerJS
+	url = https://github.com/SkySThompson/TimerJS.git
